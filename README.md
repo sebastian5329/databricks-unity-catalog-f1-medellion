@@ -138,7 +138,7 @@ A Databricks Workflow was created to execute the pipeline sequentially:
 2. Silver table creation  
 3. Gold table creation  
 
-The workflow is configured with a **scheduled trigger** that runs **once per day at a fixed time**, enabling automated and repeatable data processing.
+The workflow is configured with a **scheduled trigger**, enabling automated and repeatable data processing.
 
 This ensures proper dependency handling and consistent pipeline execution.
 
